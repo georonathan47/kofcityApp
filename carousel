@@ -1,0 +1,58 @@
+<div class="feature_slider">
+                    <div class="item">
+                        <div class="feature_item">
+                            <div class="feature_item_inner">
+                                <img src="img/feature/adomi.jpeg" alt="">
+                                <div class="icon_hover">
+                                    <i class="fa fa-search"></i>
+                                    <i class="fa fa-shopping-cart"></i>
+                                </div>
+                            </div>
+                            <div class="title_text">
+                                <div class="feature_left"><a href="table.html"><span>Adomi Bridge</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="feature_item">
+                            <div class="feature_item_inner">
+                                <img src="img/feature/boti.jpeg" alt="">
+                                <div class="icon_hover">
+                                    <i class="fa fa-search"></i>
+                                    <i class="fa fa-shopping-cart"></i>
+                                </div>
+                            </div>
+                            <div class="title_text">
+                                <div class="feature_left"><a href="table"><span>Boti falls</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="feature_item">
+                            <div class="feature_item_inner">
+                                <img src="img/feature/beads.jpeg" alt="">
+                                <div class="icon_hover">
+                                    <i class="fa fa-search"></i>
+                                    <i class="fa fa-shopping-cart"></i>
+                                </div>
+                            </div>
+                            <div class="title_text">
+                                <div class="feature_left"><a href="table"><span>Koforidua Beads Market</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item">
+                        <div class="feature_item">
+                            <div class="feature_item_inner">
+                                <img src="img/feature/dam.jpeg" alt="">
+                                <div class="icon_hover">
+                                    <i class="fa fa-map-marker"></i>
+                                    <i class="fa fa-shopping-cart"></i>
+                                </div>
+                            </div>
+                            <div class="title_text">
+                                <div class="feature_left"><a href="table"><span>Akosombo Dam</span></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>

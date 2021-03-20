@@ -1,0 +1,76 @@
+<div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/health.png" alt="">
+                                <h3>Health </h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/food.png" alt="">
+                                <h3>Food</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/education.png" alt="">
+                                <h3>Education</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/business.png" alt="">
+                                <h3>Business</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/transport.png" alt="">
+                                <h3>Transport</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/security.png" alt="">
+                                <h3>Security</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="#">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/accommodation.png" alt="">
+                                <h3>Accommodation</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href=".accomodation">Read More</a>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-6">
+                            <div class="service_item">
+                                <img src="img/kofcityapp-png/piwc.png" alt="">
+                                <h3>Religious Bodies</h3>
+                                <p>Lorem ipsum dolor sit amet, cont tempor incididunt ut labore dolor adipiscing elit,
+                                    sed do eiusmod et magna aliquaquat officia.</p>
+                                <a class="read_mor_btn" href="">Read More</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
