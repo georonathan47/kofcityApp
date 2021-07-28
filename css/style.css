@@ -3863,13 +3863,11 @@ body, p, h1, h2, h3, h4, h5, h6 {
 }
 
 .carousel{
-  align-items: center;
-  display: flex;
-  margin: 2rem auto;
-  overflow: hidden;
+  align-items: justify !important;
+  display: flex !important;
+  margin: 2rem auto !important;
+  overflow: hidden !important;
   width: 300px;
-
-  
 }
 /* End Footer area css
 ============================================================================================ */
